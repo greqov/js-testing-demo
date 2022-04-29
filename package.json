@@ -1,0 +1,17 @@
+{
+  "name": "js-testing-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "7.17.9",
+    "@babel/preset-env": "7.16.11",
+    "babel-jest": "28.0.2",
+    "jest": "28.0.2"
+  }
+}
